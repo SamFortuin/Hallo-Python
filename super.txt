@@ -1,0 +1,4 @@
+https://www.home-assistant.io 
+
+Dit project inspireerd mij omdat het een perfecte brug is tussen meerdere home automation standaarden.
+Alles op een plek hebben is ideal en zeken als je huis vanuti deze plek kan automatiseren.
